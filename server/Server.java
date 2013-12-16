@@ -43,7 +43,7 @@ import javax.net.ssl.SSLContext;
 import javax.net.ssl.SSLServerSocketFactory;
 
 /**
- * Basic, yet fully functional and spec compliant, HTTPlol/1.1 file server.
+ * Basic, yet fully functional and spec compliant, HTTP/1.1 file server.
  */
 public class ElementalHttpServer {
 
